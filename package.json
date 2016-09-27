@@ -1,13 +1,14 @@
 {
   "name": "wallhaven",
   "version": "0.1.0",
-  "main": "lib/index.js",
+  "main": "lib/search.js",
   "bin": {
     "wallhaven": "wallhaven.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "bitbucket:dogancelik/wallhaven",
   "author": "Doğan Çelik",
   "license": "MIT",
   "dependencies": {
